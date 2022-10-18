@@ -1,7 +1,7 @@
 # Past-Weather
 A Dataset Documenting Past Weather in Salt Lake City, Utah
 
-#Contents
+# Contents
 Weather plays an important factor in decision making whether we consciously choose to ignore it or not. Thus an analysis of the past weather can be valuable. This is of great interest to many people as it can help predict how certain holidays such as Halloween or Thanksgiving might play out. Will it be too warm or too cold to eat outside? Does there appear to be much wind during these transition months? All of these questions and more we hope to be able to explain with this dataset. 
 
 
@@ -10,7 +10,7 @@ This repository contains past weather collected in Salt Lake City over the past 
 
 Below will be posted the code that I used to scrape the website https://www.localconditions.com/weather-salt-lake-city-utah/84101/past.php. 
 
-
+# Code 
 
 
 
