@@ -11,6 +11,21 @@ This repository contains past weather collected in Salt Lake City over the past 
 Below will be posted the code that I used to scrape the website https://www.localconditions.com/weather-salt-lake-city-utah/84101/past.php. 
 
 # Code 
+```
+#import packages
+import numpy as np
+import pandas as pd
+from bs4 import BeautifulSoup as bs
+import requests
+from urllib.request import urlopen as uReq 
 
 
+#import website
+myurl = 'https://www.localconditions.com/weather-salt-lake-city-utah/84101/past.php'
+myurl
+
+
+#use uReq to open url
+Client = uReq(myurl)
+```
 
