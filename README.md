@@ -94,3 +94,6 @@ result.to_csv('weather.csv',index = False)
 
 ```
 
+
+# Data
+Data is shown in weather(1).csv file attached to this repository.
