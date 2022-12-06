@@ -8,7 +8,7 @@ This repository contains past weather in two files collected in Salt Lake City o
 Below will be posted the code that I used to scrape the website https://www.localconditions.com/weather-salt-lake-city-utah/84101/past.php. 
 
 # Code 
-Code is shown in the python file in this repository.
+Code is shown in the python files in this repository.
 
 
 # Data
